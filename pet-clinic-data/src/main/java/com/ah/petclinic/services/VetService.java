@@ -1,4 +1,4 @@
-package com.ah.petclinic.model.services;
+package com.ah.petclinic.services;
 
 import com.ah.petclinic.model.Vet;
 
